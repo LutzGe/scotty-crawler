@@ -2,3 +2,4 @@ geckodriver.log
 dist/
 .pwd
 .ipynb_checkpoints/
+src/__pycache__/

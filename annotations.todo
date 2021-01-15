@@ -1,0 +1,21 @@
+-> número total de chamados: div.mGridNavigation > div.mGridNavigatorRange 
+    = "[1..21] de 21"
+
+-> nome das colunas: a.order > innertext
+    = ["Id", "Situação", "Título"...]
+
+-> Informações dos chamados: a cada <tr> => todos span.mLabel
+    = ["110834", "Relatório", "Sistemas de TI"...]
+
+
+TODO:
+if n_total_chamados > 30:
+    rodar script que lê os chamados na outra página
+        script que vira a página + script que lê os chamados da página atual
+    adicionar todos em um arquivo só blablabla
+
+depois de ter as informações parseadas, criar um json com tudo
+
+comparar o json novo com o último criado
+
+fazer altas coisas (nada)
